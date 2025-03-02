@@ -1,4 +1,4 @@
-¡Claro! Aquí tienes un ejemplo de un archivo README para tu proyecto. Este archivo README proporciona una descripción general del proyecto, instrucciones sobre cómo usarlo y cualquier otra información relevante.
+
 
 ```markdown
 # Proyecto de Gestión de Amigos
@@ -35,33 +35,11 @@ Este proyecto es una aplicación simple en JavaScript para gestionar una lista d
 
 - Un navegador web moderno que soporte JavaScript.
 
-## Ejemplo de Uso
 
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gestión de Amigos</title>
-</head>
-<body>
-    <h1>Gestión de Amigos</h1>
-    <input type="text" id="amigo" placeholder="Ingresa el nombre de un amigo">
-    <button onclick="agregarAmigo()">Agregar Amigo</button>
-    <ul id="listaAmigos"></ul>
-    <button onclick="sortearAmigo()">Sortear Amigo</button>
-    <p id="resultado"></p>
-
-    <script src="script.js"></script>
-</body>
-</html>
-```
 
 ## Autor
 
-- [Tu Nombre]
+- [fdocastle]
 
 ```
 
-Puedes copiar este contenido y guardarlo en un archivo llamado `README.md` en tu proyecto. Si necesitas más ayuda o tienes alguna otra pregunta, ¡házmelo saber! 😊
