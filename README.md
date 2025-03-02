@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Proyecto de Gestión de Amigos
+# Proyecto Challenge Amigo Secreto
 
 Este proyecto es una aplicación simple en JavaScript para gestionar una lista de amigos. Permite agregar amigos, visualizar la lista de amigos y sortear un amigo al azar.
 
